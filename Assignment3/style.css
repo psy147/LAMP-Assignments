@@ -1,0 +1,34 @@
+h1,
+h2 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    align-content: center;
+    background-image: url(iot.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+label {
+    color: greenyellow;
+    float: left;
+    padding-right: 120px;
+}
+
+.inputs {
+    align-items: center;
+}
+
+input {
+    position: static;
+    float: center;
+    width: 180px;
+    height: 50px;
+}
+
+#email {
+    max-width: 200px;
+    min-width: 100px;
+}
